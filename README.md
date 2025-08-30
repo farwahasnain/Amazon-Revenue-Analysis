@@ -35,7 +35,7 @@ The analysis was performed using **MySQL** for data preparation and querying, an
 - Automate ETL pipeline for real-time reporting  
 
 ---
-👤 **Author**: *[Farwah Hasnain]*  
+👤 **Author**: *Farwah Hasnain*  
 📧 Contact: [farwah.hasnain@gmail.com] | 🌐 [LinkedIn](https://www.linkedin.com/in/farwah-hasnain/)
 
 
