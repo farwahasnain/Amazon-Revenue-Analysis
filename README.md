@@ -21,7 +21,6 @@ The analysis was performed using **MySQL** for data preparation and querying, an
 
 ## 📷 Dashboard Preview
 ![Amazon Revenue Dashboard](./Amazon_PowerBI_Dashboard.JPG)  
-<img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/dff150a5-5dee-4fb9-a05c-03ba74cb376c" />
  
 
 
